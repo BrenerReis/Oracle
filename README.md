@@ -7,7 +7,7 @@ Projeto de API - 5° Semestre de 2024 da Fatec São José dos Campos - ORACLE
 <br>
 <table>
   <tr>
-    <td>Cliente</td>
+    <td>Cliente teste</td>
     <td>Periodo/Curso</td>
     <td>Professor M2</td>
     <td>Professor P2</td>
